@@ -1,4 +1,4 @@
-# Bioengineering for Innovation in Medicine - Academic Projects & Thesis
+# Master Degree in Bioengineering for Innovation in Medicine - Academic Projects & Thesis
 
 **Author:** Sonia Belliazzi  
 **Institution:** Università degli Studi di Modena e Reggio Emilia (UNIMORE)  
